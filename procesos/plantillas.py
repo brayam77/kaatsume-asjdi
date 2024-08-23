@@ -67,16 +67,16 @@ Saludos binero @{} {}, te presento mis Gateways y Tools disponibles en KATSUME -
 
 gates_boton_text = '''KATSUME -DO  | 𝑮𝑨𝑻𝑬𝑺
 
-カ Gates Online ➩ 8
-カ Gates Offline 0
+カ Gates Online ➩ 14
+カ Gates Offline 1
 
-カ Gates Totals ➬ 8
+カ Gates Totals ➬ 15
 
-カ Gates Auth ➭ 2
+カ Gates Auth ➭ 7
 カ Gates Free ➭ 1
 カ Gates Charged ➭ 3
-カ Gates CCN Charged ➭ 1
-カ Gates Mass ➭ 1'''
+カ Gates CCN Charged ➭ 2
+カ Gates Mass ➭ 2'''
 
 tools_boton_text = '''
 HERRAMIENTAS | カツメ CHK 
