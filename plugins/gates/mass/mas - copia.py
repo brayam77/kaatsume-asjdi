@@ -38,7 +38,7 @@ def panel(_, message):
     
     ccs = data[1].split('\n')
 
-    if len(ccs) >= 11: return message.reply("<b>Dear user, let me tell you that the /mas gate only accepts 5 cc for mass checking.</b>",quote=True)
+    if len(ccs) >= 11: return message.reply("<b>Dear user, let me tell you that the /mas gate only accepts 10 cc for mass checking.</b>",quote=True)
     boss =f'''<b>
 Started the Cheking
 ━━━━━━━━━━━━━━━━━━
